@@ -1,2 +1,2 @@
 # survey
-A survey form for turner graphics
+A survey form for turnr
